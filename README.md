@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the SQL language and Power BI
 - 💞️ I’m looking to collaborate on projects that would show and develop my skills
 - 📫 How to reach me https://www.linkedin.com/in/kathleenbonfe/
+- ✔ Check me out: https://public.tableau.com/app/profile/kathy.bonfe
 
 <!---
 KBonfe/KBonfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
