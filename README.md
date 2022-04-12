@@ -3,6 +3,7 @@
 - 👋 Hi, I’m Kathleen Bonfe
 - 👀 I’m interested in Data Analytics, Data Science, Statistics, and Science
 - 🌱 I’m currently developing my SQL language, Power BI/Tabeau, and Python skills
+- :sunrise_over_mountains: Currently searching for an entry level position in data
 - 💞️ I’m looking to collaborate on projects that would show and develop my skills
 - 📫 How to reach me https://www.linkedin.com/in/kathleenbonfe/
 - ✔ Check me out: https://public.tableau.com/app/profile/kathy.bonfe
