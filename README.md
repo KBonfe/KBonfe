@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/33985564/163046964-c0a51009-d0eb-4341-86e2-90066cd549ce.png">
 
-- 👋 Hi, I’m @KBonfe
-- 👀 I’m interested in Data Analytics, Statistics, and Science
+- 👋 Hi, I’m Kathleen Bonfe
+- 👀 I’m interested in Data Analytics, Data Science, Statistics, and Science
 - 🌱 I’m currently developing my SQL language, Power BI/Tabeau, and Python skills
 - 💞️ I’m looking to collaborate on projects that would show and develop my skills
 - 📫 How to reach me https://www.linkedin.com/in/kathleenbonfe/
