@@ -1,3 +1,5 @@
+<img src=""
+
 - 👋 Hi, I’m @KBonfe
 - 👀 I’m interested in Data Analytics, Statistics, and Science
 - 🌱 I’m currently developing my SQL language, Power BI/Tabeau, and Python skills
