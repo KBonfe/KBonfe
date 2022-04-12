@@ -1,4 +1,4 @@
-<img src=""
+<img src="https://user-images.githubusercontent.com/33985564/163033663-c38b4d04-6972-449b-bf48-aedeeff664f9.png">
 
 - 👋 Hi, I’m @KBonfe
 - 👀 I’m interested in Data Analytics, Statistics, and Science
